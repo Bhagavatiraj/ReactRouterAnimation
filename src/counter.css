@@ -1,0 +1,16 @@
+button{
+background-color:#5a564c;
+color: white;
+padding:10 px 60px;
+border-radius: 5px;
+cursor: pointer;
+margin:100px 0px;
+font-size: large;
+}
+
+label{
+font-size: large;
+padding-left: 10px;
+padding-right: 10px;
+background-color: #9e8949;
+}
